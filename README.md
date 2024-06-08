@@ -14,7 +14,7 @@ Hi there! I'm a PhD student at the School of Life Science and Technology, Huazho
 ## Projects
 
 ### [🚀 MGM: Microbial General Model](https://github.com/HUST-NingKang-Lab/MGM)
-**Microbial General Model (MGM)** is a large-scale pretrained language model designed for interpretable microbiome data analysis. MGM allows for fine-tuning and evaluation across various microbiome data analysis tasks.
+**MGM (Microbial General Model)** is a large-scale pretrained language model designed for interpretable microbiome data analysis. MGM allows for fine-tuning and evaluation across various microbiome data analysis tasks.
 
 ### [🧬 ASD-cancer](https://github.com/HUST-NingKang-Lab/ASD-cancer)
 **ASD-cancer** (autoencoder-based subtypes detector for cancer) is a semi-supervised deep learning framework based on autoencoder to identify cancer survival subtypes by integrating tumor microbiome profiles and host gene expression.
